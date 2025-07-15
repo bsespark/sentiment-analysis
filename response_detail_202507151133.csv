@@ -1,0 +1,1001 @@
+"survey_id","response_date","event_id","event","event_date","email","survey_question_id","survey_question","survey_response","load_date","etl_updated","survey_class"
+6072415,2025-05-24,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,daniel.riff@gmail.com,1,Likelihood to Recommend,"10",2025-05-25 08:18:16.000,2025-05-26 17:00:47.758,CORE
+6072415,2025-05-24,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,daniel.riff@gmail.com,2,Experience comments,,2025-05-25 08:18:16.000,2025-05-26 17:00:47.758,CORE
+6072415,2025-05-24,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,daniel.riff@gmail.com,3,Continue the survey?,Yes,2025-05-25 08:18:16.000,2025-05-26 17:00:47.758,CORE
+6072415,2025-05-24,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,daniel.riff@gmail.com,4,Type of Survey,Post-Event,2025-05-25 08:18:16.000,2025-05-26 17:00:47.758,CORE
+6072415,2025-05-24,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,daniel.riff@gmail.com,5,Host one,No,2025-05-25 08:18:16.000,2025-05-26 17:00:47.758,CORE
+6072415,2025-05-24,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,daniel.riff@gmail.com,6,Host two,No,2025-05-25 08:18:16.000,2025-05-26 17:00:47.758,CORE
+6072415,2025-05-24,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,daniel.riff@gmail.com,7,Access to F&B QR code,No,2025-05-25 08:18:16.000,2025-05-26 17:00:47.758,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,1,Likelihood to Recommend,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,2,Experience comments,"I love love love going to liberty games. They are so queer-friendly,so full of Brooklyn people of every color and background???they feel unlike any other event I ve attended at Barclays. Magic.",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,3,Continue the survey?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,4,Type of Survey,Post-Event,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,5,Host one,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,6,Host two,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,7,Access to F&B QR code,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,8,Which of the following most closely describes your ticket package?,Other,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,9,Reason for attending the game,"Spending time with family,Showing support for the Nets or Liberty",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,10,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,11,Ticket purchase,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,12,Pre-event communication,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,13,Commute and parking,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,14,Entering the venue,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,15,Interactions with venue staff,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,16,Event entertainment,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,17,Halftime performance,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,18,Cleanliness of Venue,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,19,Food and beverage,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,20,Merchandise shopping,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,21,"If you have additional feedback about your experience,please share with us!",You do not have enough people working concessions. The lines???especially on level 200??? are brutal. Let people get food and return to their seats. We spent over a full quarter online waiting for food.  This is hands down the worst part of the experience,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,22,How long have you been a fan of the team?,"4 to 6 years",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,23,Which WNBA team do you enjoy the most?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,24,How many more games do you plan to attend this season?,"4",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,25,Are you interested in elevating your Liberty experience with a season or premium package?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,26,Did you utilize the CLEAR entrance when coming to the event?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,27,Are there specific reasons you did not use CLEAR?,I don t have it,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,28,How likely are you to consider products and services from CLEAR in the future?,"5",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,29,How likely are you to recommend CLEAR to a friend or colleague based on your experience at Barclays Center?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,30,The suite environment was comfortable,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,31,I utilized the in-suite catering services,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,32,Cleanliness of Suite,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,33,Helpfulness of Suite Attendant,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,34,Suite food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,35,Suite F&B: Menu options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,36,Suite F&B: Pre-order experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,37,Suite F&B: Ordering efficiency,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,38,Suite F&B: Food quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,39,Suite F&B: Delivery speed,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,40,Mode of transportation guests arrived on,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,41,What kind of parking option did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,42,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,43,Specific transportation type to the venue:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,44,Time added to arrival commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,45,What did you utilize in choosing a parking location?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,46,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,47,Which garage did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,48,q_feedback_ptv_other_text_input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,49,Factors when choosing parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,50,Online reviews of selected location,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,51,Garage layout (car elevators or ramps),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,52,"Parking services (valet,self-park)",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,53,Reservation process,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,54,Prepaid parking options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,55,Time required to enter/exit,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,56,Positive past experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,57,Time added to departure commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,58,F&B Interaction,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,59,Did you purchase F&B from the following:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,60,F&B purchase through QR code,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,61,Please share the reasons you did not order using the QR Code?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,62,How could we enhance your experience using the QR code food and beverage  @@  service?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,63,Concession stand or kiosk,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,64,Cashier-less self-check out lanes,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,65,In-seat mobile order,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,66,Brooklyn Market mobile ordering,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,67,F&B price,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,68,F&B quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,69,F&B variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,70,F&B wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,71,Why didn t you purchase any food or beverages?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,72,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,73,F&B pain points,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,74,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,75,Food and beverage comment,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,76,Staff: Security,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,77,Staff: Venue (Ushers & Guest services),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,78,Staff: F&B,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,79,Staff: Retail,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,80,Staff: Friendliness,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,81,Staff: Knowledge / helpfulness,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,82,Staff: Presence of throughout arena,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,83,Staff comments,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,84,Merchandise Interaction,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,85,Which retail locations inside Barclays Center did you visit?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,86,Retail pricing,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,87,Retail quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,88,Retail selection/variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,89,Retail wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,90,Merchandise shopped for,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,91,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,92,Reason for not visiting or purchasing retail,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,93,Any other comments about your retail experience?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,94,Purchase tickets for the Brooklyn Nets and New York Liberty 50/50 Raffle,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,95,How did you purchase your raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,96,What motivated you to purchase raffle tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,97,Were you aware of the 50/50 raffle?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,98,Why did you choose not to purchase a raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,99,Gender,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,100,What is your heritage or background?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,101,What is your heritage or background? - Other,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,102,What is your marital status?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,103,Number of children,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,104,What industry best describes your line of work?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,105,How did you purchase your tickets for this game?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,106,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,107,What is your primary use of tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,108,Helpfulness of Venue Staff (historical),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,109,Are you interested in tickets for next season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071236,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ericafreed@gmail.com,110,When did you plan to arrive at the venue?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,1,Likelihood to Recommend,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,2,Experience comments,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,3,Continue the survey?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,4,Type of Survey,Post-Event,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,5,Host one,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,6,Host two,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,7,Access to F&B QR code,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,8,Which of the following most closely describes your ticket package?,Full season,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,9,Reason for attending the game,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,10,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,11,Ticket purchase,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,12,Pre-event communication,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,13,Commute and parking,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,14,Entering the venue,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,15,Interactions with venue staff,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,16,Event entertainment,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,17,Halftime performance,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,18,Cleanliness of Venue,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,19,Food and beverage,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,20,Merchandise shopping,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,21,"If you have additional feedback about your experience,please share with us!",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,22,How long have you been a fan of the team?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,23,Which WNBA team do you enjoy the most?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,24,How many more games do you plan to attend this season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,25,Are you interested in elevating your Liberty experience with a season or premium package?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,26,Did you utilize the CLEAR entrance when coming to the event?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,27,Are there specific reasons you did not use CLEAR?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,28,How likely are you to consider products and services from CLEAR in the future?,"0",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,29,How likely are you to recommend CLEAR to a friend or colleague based on your experience at Barclays Center?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,30,The suite environment was comfortable,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,31,I utilized the in-suite catering services,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,32,Cleanliness of Suite,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,33,Helpfulness of Suite Attendant,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,34,Suite food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,35,Suite F&B: Menu options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,36,Suite F&B: Pre-order experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,37,Suite F&B: Ordering efficiency,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,38,Suite F&B: Food quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,39,Suite F&B: Delivery speed,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,40,Mode of transportation guests arrived on,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,41,What kind of parking option did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,42,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,43,Specific transportation type to the venue:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,44,Time added to arrival commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,45,What did you utilize in choosing a parking location?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,46,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,47,Which garage did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,48,q_feedback_ptv_other_text_input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,49,Factors when choosing parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,50,Online reviews of selected location,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,51,Garage layout (car elevators or ramps),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,52,"Parking services (valet,self-park)",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,53,Reservation process,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,54,Prepaid parking options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,55,Time required to enter/exit,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,56,Positive past experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,57,Time added to departure commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,58,F&B Interaction,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,59,Did you purchase F&B from the following:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,60,F&B purchase through QR code,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,61,Please share the reasons you did not order using the QR Code?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,62,How could we enhance your experience using the QR code food and beverage  @@  service?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,63,Concession stand or kiosk,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,64,Cashier-less self-check out lanes,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,65,In-seat mobile order,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,66,Brooklyn Market mobile ordering,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,67,F&B price,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,68,F&B quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,69,F&B variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,70,F&B wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,71,Why didn t you purchase any food or beverages?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,72,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,73,F&B pain points,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,74,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,75,Food and beverage comment,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,76,Staff: Security,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,77,Staff: Venue (Ushers & Guest services),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,78,Staff: F&B,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,79,Staff: Retail,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,80,Staff: Friendliness,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,81,Staff: Knowledge / helpfulness,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,82,Staff: Presence of throughout arena,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,83,Staff comments,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,84,Merchandise Interaction,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,85,Which retail locations inside Barclays Center did you visit?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,86,Retail pricing,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,87,Retail quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,88,Retail selection/variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,89,Retail wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,90,Merchandise shopped for,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,91,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,92,Reason for not visiting or purchasing retail,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,93,Any other comments about your retail experience?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,94,Purchase tickets for the Brooklyn Nets and New York Liberty 50/50 Raffle,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,95,How did you purchase your raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,96,What motivated you to purchase raffle tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,97,Were you aware of the 50/50 raffle?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,98,Why did you choose not to purchase a raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,99,Gender,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,100,What is your heritage or background?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,101,What is your heritage or background? - Other,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,102,What is your marital status?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,103,Number of children,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,104,What industry best describes your line of work?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,105,How did you purchase your tickets for this game?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,106,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,107,What is your primary use of tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,108,Helpfulness of Venue Staff (historical),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,109,Are you interested in tickets for next season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071239,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,zgreeklady@gmail.com,110,When did you plan to arrive at the venue?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,1,Likelihood to Recommend,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,2,Experience comments,"NY Liberty games continue to be the best sporting event in the tri-state area,maybe anywhere,but still lack a crucial component: COFFEE FOR MATINEE GAMES.",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,3,Continue the survey?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,4,Type of Survey,Post-Event,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,5,Host one,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,6,Host two,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,7,Access to F&B QR code,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,8,Which of the following most closely describes your ticket package?,Full season,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,9,Reason for attending the game,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,10,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,11,Ticket purchase,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,12,Pre-event communication,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,13,Commute and parking,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,14,Entering the venue,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,15,Interactions with venue staff,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,16,Event entertainment,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,17,Halftime performance,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,18,Cleanliness of Venue,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,19,Food and beverage,"4",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,20,Merchandise shopping,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,21,"If you have additional feedback about your experience,please share with us!","bummed about some of the changes in beer selection,but love the embracing of Liberty through themed cones,buckets,and cups. again,biggest slight of all is the lack of coffee outside of the exclusive American Express shop.",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,22,How long have you been a fan of the team?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,23,Which WNBA team do you enjoy the most?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,24,How many more games do you plan to attend this season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,25,Are you interested in elevating your Liberty experience with a season or premium package?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,26,Did you utilize the CLEAR entrance when coming to the event?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,27,Are there specific reasons you did not use CLEAR?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,28,How likely are you to consider products and services from CLEAR in the future?,"0",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,29,How likely are you to recommend CLEAR to a friend or colleague based on your experience at Barclays Center?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,30,The suite environment was comfortable,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,31,I utilized the in-suite catering services,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,32,Cleanliness of Suite,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,33,Helpfulness of Suite Attendant,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,34,Suite food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,35,Suite F&B: Menu options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,36,Suite F&B: Pre-order experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,37,Suite F&B: Ordering efficiency,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,38,Suite F&B: Food quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,39,Suite F&B: Delivery speed,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,40,Mode of transportation guests arrived on,Other,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,41,What kind of parking option did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,42,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,43,Specific transportation type to the venue:,Bike / scooter,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,44,Time added to arrival commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,45,What did you utilize in choosing a parking location?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,46,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,47,Which garage did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,48,q_feedback_ptv_other_text_input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,49,Factors when choosing parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,50,Online reviews of selected location,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,51,Garage layout (car elevators or ramps),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,52,"Parking services (valet,self-park)",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,53,Reservation process,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,54,Prepaid parking options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,55,Time required to enter/exit,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,56,Positive past experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,57,Time added to departure commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,58,F&B Interaction,I purchased food and/or beverages,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,59,Did you purchase F&B from the following:,Cashier-less self-check out lanes (e.g. AMEX store),2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,60,F&B purchase through QR code,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,61,Please share the reasons you did not order using the QR Code?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,62,How could we enhance your experience using the QR code food and beverage  @@  service?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,63,Concession stand or kiosk,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,64,Cashier-less self-check out lanes,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,65,In-seat mobile order,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,66,Brooklyn Market mobile ordering,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,67,F&B price,"5",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,68,F&B quality,"8",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,69,F&B variety,"6",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,70,F&B wait time,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,71,Why didn t you purchase any food or beverages?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,72,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,73,F&B pain points,"Limited variety,High prices",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,74,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,75,Food and beverage comment,need coffee. need coffee. need coffee.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,76,Staff: Security,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,77,Staff: Venue (Ushers & Guest services),"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,78,Staff: F&B,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,79,Staff: Retail,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,80,Staff: Friendliness,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,81,Staff: Knowledge / helpfulness,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,82,Staff: Presence of throughout arena,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,83,Staff comments,keep it up. they're the best. positive vibes.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,84,Merchandise Interaction,I did not visit any retail locations,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,85,Which retail locations inside Barclays Center did you visit?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,86,Retail pricing,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,87,Retail quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,88,Retail selection/variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,89,Retail wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,90,Merchandise shopped for,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,91,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,92,Reason for not visiting or purchasing retail,"Had an issue with pricing,selection,or wait time",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,93,Any other comments about your retail experience?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,94,Purchase tickets for the Brooklyn Nets and New York Liberty 50/50 Raffle,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,95,How did you purchase your raffle ticket?,Kiosk,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,96,What motivated you to purchase raffle tickets?,good cause / hopes and dreams of wealth,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,97,Were you aware of the 50/50 raffle?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,98,Why did you choose not to purchase a raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,99,Gender,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,100,What is your heritage or background?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,101,What is your heritage or background? - Other,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,102,What is your marital status?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,103,Number of children,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,104,What industry best describes your line of work?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,105,How did you purchase your tickets for this game?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,106,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,107,What is your primary use of tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,108,Helpfulness of Venue Staff (historical),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,109,Are you interested in tickets for next season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071251,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,ksugnet1@gmail.com,110,When did you plan to arrive at the venue?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,1,Likelihood to Recommend,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,2,Experience comments,"I have such a wonderful time at Liberty games! The energy is great. I love the Timeless Torches and Ellie,and the way everyone is so excited to support our team.",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,3,Continue the survey?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,4,Type of Survey,Post-Event,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,5,Host one,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,6,Host two,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,7,Access to F&B QR code,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,8,Which of the following most closely describes your ticket package?,Individual ticket,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,9,Reason for attending the game,"Special Event or Giveaway,Showing support for the Nets or Liberty",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,10,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,11,Ticket purchase,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,12,Pre-event communication,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,13,Commute and parking,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,14,Entering the venue,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,15,Interactions with venue staff,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,16,Event entertainment,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,17,Halftime performance,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,18,Cleanliness of Venue,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,19,Food and beverage,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,20,Merchandise shopping,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,21,"If you have additional feedback about your experience,please share with us!",Can t wait for my next game!,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,22,How long have you been a fan of the team?,"1 to 3 years",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,23,Which WNBA team do you enjoy the most?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,24,How many more games do you plan to attend this season?,"3",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,25,Are you interested in elevating your Liberty experience with a season or premium package?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,26,Did you utilize the CLEAR entrance when coming to the event?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,27,Are there specific reasons you did not use CLEAR?,I don t know what this means.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,28,How likely are you to consider products and services from CLEAR in the future?,"7",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,29,How likely are you to recommend CLEAR to a friend or colleague based on your experience at Barclays Center?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,30,The suite environment was comfortable,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,31,I utilized the in-suite catering services,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,32,Cleanliness of Suite,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,33,Helpfulness of Suite Attendant,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,34,Suite food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,35,Suite F&B: Menu options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,36,Suite F&B: Pre-order experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,37,Suite F&B: Ordering efficiency,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,38,Suite F&B: Food quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,39,Suite F&B: Delivery speed,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,40,Mode of transportation guests arrived on,Public Transportation,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,41,What kind of parking option did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,42,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,43,Specific transportation type to the venue:,MTA Subway,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,44,Time added to arrival commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,45,What did you utilize in choosing a parking location?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,46,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,47,Which garage did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,48,q_feedback_ptv_other_text_input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,49,Factors when choosing parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,50,Online reviews of selected location,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,51,Garage layout (car elevators or ramps),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,52,"Parking services (valet,self-park)",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,53,Reservation process,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,54,Prepaid parking options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,55,Time required to enter/exit,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,56,Positive past experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,57,Time added to departure commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,58,F&B Interaction,I did not purchase any food or beverages,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,59,Did you purchase F&B from the following:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,60,F&B purchase through QR code,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,61,Please share the reasons you did not order using the QR Code?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,62,How could we enhance your experience using the QR code food and beverage  @@  service?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,63,Concession stand or kiosk,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,64,Cashier-less self-check out lanes,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,65,In-seat mobile order,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,66,Brooklyn Market mobile ordering,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,67,F&B price,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,68,F&B quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,69,F&B variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,70,F&B wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,71,Why didn t you purchase any food or beverages?,Ate outside the venue,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,72,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,73,F&B pain points,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,74,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,75,Food and beverage comment,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,76,Staff: Security,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,77,Staff: Venue (Ushers & Guest services),"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,78,Staff: F&B,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,79,Staff: Retail,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,80,Staff: Friendliness,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,81,Staff: Knowledge / helpfulness,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,82,Staff: Presence of throughout arena,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,83,Staff comments,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,84,Merchandise Interaction,I did not visit any retail locations,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,85,Which retail locations inside Barclays Center did you visit?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,86,Retail pricing,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,87,Retail quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,88,Retail selection/variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,89,Retail wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,90,Merchandise shopped for,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,91,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,92,Reason for not visiting or purchasing retail,Did not??have enough time,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,93,Any other comments about your retail experience?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,94,Purchase tickets for the Brooklyn Nets and New York Liberty 50/50 Raffle,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,95,How did you purchase your raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,96,What motivated you to purchase raffle tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,97,Were you aware of the 50/50 raffle?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,98,Why did you choose not to purchase a raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,99,Gender,Non-binary,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,100,What is your heritage or background?,Mixed Ethnicity,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,101,What is your heritage or background? - Other,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,102,What is your marital status?,In a Relationship,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,103,Number of children,None,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,104,What industry best describes your line of work?,Media,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,105,How did you purchase your tickets for this game?,Ticketmaster,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,106,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,107,What is your primary use of tickets?,Personal (Friends & Family),2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,108,Helpfulness of Venue Staff (historical),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,109,Are you interested in tickets for next season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071252,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,hastypudding622@gmail.com,110,When did you plan to arrive at the venue?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,1,Likelihood to Recommend,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,2,Experience comments,I am a season ticket holder holder in the key.  There s good and bad.     The food is mediocre.   There should be wings every week and burgers that are not thick and dry.   We pay too much for this club to get this type of treatment.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,3,Continue the survey?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,4,Type of Survey,Post-Event,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,5,Host one,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,6,Host two,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,7,Access to F&B QR code,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,8,Which of the following most closely describes your ticket package?,Full season,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,9,Reason for attending the game,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,10,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,11,Ticket purchase,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,12,Pre-event communication,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,13,Commute and parking,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,14,Entering the venue,"7",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,15,Interactions with venue staff,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,16,Event entertainment,"7",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,17,Halftime performance,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,18,Cleanliness of Venue,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,19,Food and beverage,"5",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,20,Merchandise shopping,"8",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,21,"If you have additional feedback about your experience,please share with us!",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,22,How long have you been a fan of the team?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,23,Which WNBA team do you enjoy the most?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,24,How many more games do you plan to attend this season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,25,Are you interested in elevating your Liberty experience with a season or premium package?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,26,Did you utilize the CLEAR entrance when coming to the event?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,27,Are there specific reasons you did not use CLEAR?,I use the key entrance,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,28,How likely are you to consider products and services from CLEAR in the future?,"0",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,29,How likely are you to recommend CLEAR to a friend or colleague based on your experience at Barclays Center?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,30,The suite environment was comfortable,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,31,I utilized the in-suite catering services,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,32,Cleanliness of Suite,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,33,Helpfulness of Suite Attendant,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,34,Suite food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,35,Suite F&B: Menu options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,36,Suite F&B: Pre-order experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,37,Suite F&B: Ordering efficiency,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,38,Suite F&B: Food quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,39,Suite F&B: Delivery speed,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,40,Mode of transportation guests arrived on,Public Transportation,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,41,What kind of parking option did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,42,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,43,Specific transportation type to the venue:,Long Island Rail Road,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,44,Time added to arrival commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,45,What did you utilize in choosing a parking location?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,46,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,47,Which garage did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,48,q_feedback_ptv_other_text_input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,49,Factors when choosing parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,50,Online reviews of selected location,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,51,Garage layout (car elevators or ramps),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,52,"Parking services (valet,self-park)",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,53,Reservation process,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,54,Prepaid parking options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,55,Time required to enter/exit,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,56,Positive past experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,57,Time added to departure commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,58,F&B Interaction,Food/beverage was included with my ticket,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,59,Did you purchase F&B from the following:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,60,F&B purchase through QR code,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,61,Please share the reasons you did not order using the QR Code?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,62,How could we enhance your experience using the QR code food and beverage  @@  service?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,63,Concession stand or kiosk,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,64,Cashier-less self-check out lanes,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,65,In-seat mobile order,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,66,Brooklyn Market mobile ordering,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,67,F&B price,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,68,F&B quality,"5",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,69,F&B variety,"5",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,70,F&B wait time,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,71,Why didn t you purchase any food or beverages?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,72,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,73,F&B pain points,Limited variety,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,74,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,75,Food and beverage comment,Yes the food is not up to par with the pricing.    The chicken greens and potatoe salad was great.  The cornbread hard from being under the light so long I guess.   The burgers have beeen the vein of my existence.   Thick and hard.    Should always be wings at a game not just chicken fingers.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,76,Staff: Security,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,77,Staff: Venue (Ushers & Guest services),"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,78,Staff: F&B,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,79,Staff: Retail,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,80,Staff: Friendliness,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,81,Staff: Knowledge / helpfulness,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,82,Staff: Presence of throughout arena,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,83,Staff comments,N/A,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,84,Merchandise Interaction,I did not visit any retail locations,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,85,Which retail locations inside Barclays Center did you visit?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,86,Retail pricing,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,87,Retail quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,88,Retail selection/variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,89,Retail wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,90,Merchandise shopped for,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,91,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,92,Reason for not visiting or purchasing retail,I have already purchased items on a previous visit,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,93,Any other comments about your retail experience?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,94,Purchase tickets for the Brooklyn Nets and New York Liberty 50/50 Raffle,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,95,How did you purchase your raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,96,What motivated you to purchase raffle tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,97,Were you aware of the 50/50 raffle?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,98,Why did you choose not to purchase a raffle ticket?,I never win,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,99,Gender,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,100,What is your heritage or background?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,101,What is your heritage or background? - Other,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,102,What is your marital status?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,103,Number of children,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,104,What industry best describes your line of work?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,105,How did you purchase your tickets for this game?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,106,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,107,What is your primary use of tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,108,Helpfulness of Venue Staff (historical),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,109,Are you interested in tickets for next season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071268,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,joker42195@hotmail.com,110,When did you plan to arrive at the venue?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,1,Likelihood to Recommend,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,2,Experience comments,I had a wonderful time at the season opener.  I was in Section 1 with a lot of energetic fans.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,3,Continue the survey?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,4,Type of Survey,Post-Event,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,5,Host one,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,6,Host two,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,7,Access to F&B QR code,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,8,Which of the following most closely describes your ticket package?,Full season,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,9,Reason for attending the game,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,10,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,11,Ticket purchase,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,12,Pre-event communication,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,13,Commute and parking,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,14,Entering the venue,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,15,Interactions with venue staff,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,16,Event entertainment,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,17,Halftime performance,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,18,Cleanliness of Venue,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,19,Food and beverage,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,20,Merchandise shopping,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,21,"If you have additional feedback about your experience,please share with us!",I am so happy to see Brooklyn Fresh.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,22,How long have you been a fan of the team?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,23,Which WNBA team do you enjoy the most?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,24,How many more games do you plan to attend this season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,25,Are you interested in elevating your Liberty experience with a season or premium package?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,26,Did you utilize the CLEAR entrance when coming to the event?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,27,Are there specific reasons you did not use CLEAR?,I didn't download the app yet.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,28,How likely are you to consider products and services from CLEAR in the future?,"5",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,29,How likely are you to recommend CLEAR to a friend or colleague based on your experience at Barclays Center?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,30,The suite environment was comfortable,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,31,I utilized the in-suite catering services,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,32,Cleanliness of Suite,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,33,Helpfulness of Suite Attendant,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,34,Suite food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,35,Suite F&B: Menu options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,36,Suite F&B: Pre-order experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,37,Suite F&B: Ordering efficiency,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,38,Suite F&B: Food quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,39,Suite F&B: Delivery speed,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,40,Mode of transportation guests arrived on,Other,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,41,What kind of parking option did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,42,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,43,Specific transportation type to the venue:,Walk,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,44,Time added to arrival commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,45,What did you utilize in choosing a parking location?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,46,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,47,Which garage did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,48,q_feedback_ptv_other_text_input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,49,Factors when choosing parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,50,Online reviews of selected location,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,51,Garage layout (car elevators or ramps),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,52,"Parking services (valet,self-park)",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,53,Reservation process,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,54,Prepaid parking options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,55,Time required to enter/exit,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,56,Positive past experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,57,Time added to departure commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,58,F&B Interaction,I purchased food and/or beverages,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,59,Did you purchase F&B from the following:,Concession stand or kiosk,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,60,F&B purchase through QR code,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,61,Please share the reasons you did not order using the QR Code?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,62,How could we enhance your experience using the QR code food and beverage  @@  service?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,63,Concession stand or kiosk,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,64,Cashier-less self-check out lanes,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,65,In-seat mobile order,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,66,Brooklyn Market mobile ordering,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,67,F&B price,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,68,F&B quality,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,69,F&B variety,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,70,F&B wait time,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,71,Why didn t you purchase any food or beverages?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,72,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,73,F&B pain points,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,74,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,75,Food and beverage comment,I love Brooklyn Fresh.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,76,Staff: Security,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,77,Staff: Venue (Ushers & Guest services),"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,78,Staff: F&B,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,79,Staff: Retail,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,80,Staff: Friendliness,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,81,Staff: Knowledge / helpfulness,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,82,Staff: Presence of throughout arena,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,83,Staff comments,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,84,Merchandise Interaction,I did not visit any retail locations,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,85,Which retail locations inside Barclays Center did you visit?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,86,Retail pricing,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,87,Retail quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,88,Retail selection/variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,89,Retail wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,90,Merchandise shopped for,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,91,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,92,Reason for not visiting or purchasing retail,Did not??have enough time,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,93,Any other comments about your retail experience?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,94,Purchase tickets for the Brooklyn Nets and New York Liberty 50/50 Raffle,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,95,How did you purchase your raffle ticket?,Seller walking around the arena,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,96,What motivated you to purchase raffle tickets?,"The size of the pot.  It was over $13,000.",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,97,Were you aware of the 50/50 raffle?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,98,Why did you choose not to purchase a raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,99,Gender,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,100,What is your heritage or background?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,101,What is your heritage or background? - Other,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,102,What is your marital status?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,103,Number of children,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,104,What industry best describes your line of work?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,105,How did you purchase your tickets for this game?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,106,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,107,What is your primary use of tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,108,Helpfulness of Venue Staff (historical),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,109,Are you interested in tickets for next season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071270,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,rbarrow615@gmail.com,110,When did you plan to arrive at the venue?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,1,Likelihood to Recommend,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,2,Experience comments,Great atmosphere!  Loved the giveaway and that everyone gets it rather than having to wait in line early.  Concessions were good with a good variety of foods.  I feel like there is not enough clothing merch for younger kids.  My 14 year old daughter didn't fit into most of the stuff for sale and the kids store had limited product.  We saw Natasha Cloud going into the crowd to greet folks and take pictures which was really nice.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,3,Continue the survey?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,4,Type of Survey,Post-Event,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,5,Host one,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,6,Host two,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,7,Access to F&B QR code,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,8,Which of the following most closely describes your ticket package?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,9,Reason for attending the game,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,10,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,11,Ticket purchase,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,12,Pre-event communication,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,13,Commute and parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,14,Entering the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,15,Interactions with venue staff,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,16,Event entertainment,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,17,Halftime performance,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,18,Cleanliness of Venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,19,Food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,20,Merchandise shopping,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,21,"If you have additional feedback about your experience,please share with us!",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,22,How long have you been a fan of the team?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,23,Which WNBA team do you enjoy the most?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,24,How many more games do you plan to attend this season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,25,Are you interested in elevating your Liberty experience with a season or premium package?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,26,Did you utilize the CLEAR entrance when coming to the event?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,27,Are there specific reasons you did not use CLEAR?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,28,How likely are you to consider products and services from CLEAR in the future?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,29,How likely are you to recommend CLEAR to a friend or colleague based on your experience at Barclays Center?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,30,The suite environment was comfortable,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,31,I utilized the in-suite catering services,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,32,Cleanliness of Suite,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,33,Helpfulness of Suite Attendant,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,34,Suite food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,35,Suite F&B: Menu options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,36,Suite F&B: Pre-order experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,37,Suite F&B: Ordering efficiency,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,38,Suite F&B: Food quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,39,Suite F&B: Delivery speed,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,40,Mode of transportation guests arrived on,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,41,What kind of parking option did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,42,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,43,Specific transportation type to the venue:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,44,Time added to arrival commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,45,What did you utilize in choosing a parking location?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,46,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,47,Which garage did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,48,q_feedback_ptv_other_text_input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,49,Factors when choosing parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,50,Online reviews of selected location,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,51,Garage layout (car elevators or ramps),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,52,"Parking services (valet,self-park)",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,53,Reservation process,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,54,Prepaid parking options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,55,Time required to enter/exit,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,56,Positive past experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,57,Time added to departure commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,58,F&B Interaction,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,59,Did you purchase F&B from the following:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,60,F&B purchase through QR code,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,61,Please share the reasons you did not order using the QR Code?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,62,How could we enhance your experience using the QR code food and beverage  @@  service?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,63,Concession stand or kiosk,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,64,Cashier-less self-check out lanes,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,65,In-seat mobile order,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,66,Brooklyn Market mobile ordering,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,67,F&B price,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,68,F&B quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,69,F&B variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,70,F&B wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,71,Why didn t you purchase any food or beverages?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,72,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,73,F&B pain points,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,74,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,75,Food and beverage comment,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,76,Staff: Security,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,77,Staff: Venue (Ushers & Guest services),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,78,Staff: F&B,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,79,Staff: Retail,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,80,Staff: Friendliness,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,81,Staff: Knowledge / helpfulness,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,82,Staff: Presence of throughout arena,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,83,Staff comments,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,84,Merchandise Interaction,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,85,Which retail locations inside Barclays Center did you visit?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,86,Retail pricing,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,87,Retail quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,88,Retail selection/variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,89,Retail wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,90,Merchandise shopped for,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,91,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,92,Reason for not visiting or purchasing retail,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,93,Any other comments about your retail experience?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,94,Purchase tickets for the Brooklyn Nets and New York Liberty 50/50 Raffle,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,95,How did you purchase your raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,96,What motivated you to purchase raffle tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,97,Were you aware of the 50/50 raffle?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,98,Why did you choose not to purchase a raffle ticket?,Not my thing,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,99,Gender,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,100,What is your heritage or background?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,101,What is your heritage or background? - Other,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,102,What is your marital status?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,103,Number of children,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,104,What industry best describes your line of work?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,105,How did you purchase your tickets for this game?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,106,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,107,What is your primary use of tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,108,Helpfulness of Venue Staff (historical),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,109,Are you interested in tickets for next season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071272,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,cello96@yahoo.com,110,When did you plan to arrive at the venue?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,1,Likelihood to Recommend,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,2,Experience comments,It was wonderful.  Enjoyed the excitement of the crowd  and the talent of players. Did not appreciate some of the calls of the officials.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,3,Continue the survey?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,4,Type of Survey,Post-Event,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,5,Host one,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,6,Host two,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,7,Access to F&B QR code,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,8,Which of the following most closely describes your ticket package?,Full season,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,9,Reason for attending the game,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,10,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,11,Ticket purchase,"8",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,12,Pre-event communication,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,13,Commute and parking,"8",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,14,Entering the venue,"8",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,15,Interactions with venue staff,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,16,Event entertainment,"8",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,17,Halftime performance,"5",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,18,Cleanliness of Venue,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,19,Food and beverage,"6",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,20,Merchandise shopping,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,21,"If you have additional feedback about your experience,please share with us!","The food selection leaves a lot to be desired. Plus as is true of most arenas toooo expensive. (except) for the small size popcorn. I usually eat before I come to the game and I bring my unopened bottle of water water with me. The following question asks about using a CLEAR lane,I have no answer what that is! So,I cannot answer that question.",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,22,How long have you been a fan of the team?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,23,Which WNBA team do you enjoy the most?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,24,How many more games do you plan to attend this season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,25,Are you interested in elevating your Liberty experience with a season or premium package?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,26,Did you utilize the CLEAR entrance when coming to the event?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,27,Are there specific reasons you did not use CLEAR?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,28,How likely are you to consider products and services from CLEAR in the future?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,29,How likely are you to recommend CLEAR to a friend or colleague based on your experience at Barclays Center?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,30,The suite environment was comfortable,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,31,I utilized the in-suite catering services,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,32,Cleanliness of Suite,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,33,Helpfulness of Suite Attendant,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,34,Suite food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,35,Suite F&B: Menu options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,36,Suite F&B: Pre-order experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,37,Suite F&B: Ordering efficiency,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,38,Suite F&B: Food quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,39,Suite F&B: Delivery speed,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,40,Mode of transportation guests arrived on,Public Transportation,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,41,What kind of parking option did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,42,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,43,Specific transportation type to the venue:,MTA Subway,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,44,Time added to arrival commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,45,What did you utilize in choosing a parking location?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,46,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,47,Which garage did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,48,q_feedback_ptv_other_text_input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,49,Factors when choosing parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,50,Online reviews of selected location,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,51,Garage layout (car elevators or ramps),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,52,"Parking services (valet,self-park)",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,53,Reservation process,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,54,Prepaid parking options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,55,Time required to enter/exit,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,56,Positive past experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,57,Time added to departure commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,58,F&B Interaction,I did not purchase any food or beverages,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,59,Did you purchase F&B from the following:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,60,F&B purchase through QR code,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,61,Please share the reasons you did not order using the QR Code?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,62,How could we enhance your experience using the QR code food and beverage  @@  service?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,63,Concession stand or kiosk,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,64,Cashier-less self-check out lanes,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,65,In-seat mobile order,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,66,Brooklyn Market mobile ordering,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,67,F&B price,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,68,F&B quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,69,F&B variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,70,F&B wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,71,Why didn t you purchase any food or beverages?,"Too expensive,Food/Beverages did not look appealing,Ate outside the venue",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,72,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,73,F&B pain points,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,74,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,75,Food and beverage comment,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,76,Staff: Security,"8",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,77,Staff: Venue (Ushers & Guest services),"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,78,Staff: F&B,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,79,Staff: Retail,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,80,Staff: Friendliness,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,81,Staff: Knowledge / helpfulness,"8",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,82,Staff: Presence of throughout arena,"8",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,83,Staff comments,When needed staff was helpful.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,84,Merchandise Interaction,I browsed a retail location,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,85,Which retail locations inside Barclays Center did you visit?,I do not recall,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,86,Retail pricing,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,87,Retail quality,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,88,Retail selection/variety,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,89,Retail wait time,NA,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,90,Merchandise shopped for,Women's,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,91,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,92,Reason for not visiting or purchasing retail,Just browsing,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,93,Any other comments about your retail experience?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,94,Purchase tickets for the Brooklyn Nets and New York Liberty 50/50 Raffle,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,95,How did you purchase your raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,96,What motivated you to purchase raffle tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,97,Were you aware of the 50/50 raffle?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,98,Why did you choose not to purchase a raffle ticket?,I have already spent enough money to attend the game.,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,99,Gender,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,100,What is your heritage or background?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,101,What is your heritage or background? - Other,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,102,What is your marital status?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,103,Number of children,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,104,What industry best describes your line of work?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,105,How did you purchase your tickets for this game?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,106,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,107,What is your primary use of tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,108,Helpfulness of Venue Staff (historical),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,109,Are you interested in tickets for next season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071274,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,evanseleanor4@gmail.com,110,When did you plan to arrive at the venue?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,1,Likelihood to Recommend,"10",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,2,Experience comments,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,3,Continue the survey?,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,4,Type of Survey,Post-Event,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,5,Host one,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,6,Host two,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,7,Access to F&B QR code,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,8,Which of the following most closely describes your ticket package?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,9,Reason for attending the game,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,10,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,11,Ticket purchase,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,12,Pre-event communication,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,13,Commute and parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,14,Entering the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,15,Interactions with venue staff,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,16,Event entertainment,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,17,Halftime performance,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,18,Cleanliness of Venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,19,Food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,20,Merchandise shopping,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,21,"If you have additional feedback about your experience,please share with us!",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,22,How long have you been a fan of the team?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,23,Which WNBA team do you enjoy the most?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,24,How many more games do you plan to attend this season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,25,Are you interested in elevating your Liberty experience with a season or premium package?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,26,Did you utilize the CLEAR entrance when coming to the event?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,27,Are there specific reasons you did not use CLEAR?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,28,How likely are you to consider products and services from CLEAR in the future?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,29,How likely are you to recommend CLEAR to a friend or colleague based on your experience at Barclays Center?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,30,The suite environment was comfortable,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,31,I utilized the in-suite catering services,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,32,Cleanliness of Suite,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,33,Helpfulness of Suite Attendant,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,34,Suite food and beverage,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,35,Suite F&B: Menu options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,36,Suite F&B: Pre-order experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,37,Suite F&B: Ordering efficiency,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,38,Suite F&B: Food quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,39,Suite F&B: Delivery speed,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,40,Mode of transportation guests arrived on,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,41,What kind of parking option did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,42,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,43,Specific transportation type to the venue:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,44,Time added to arrival commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,45,What did you utilize in choosing a parking location?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,46,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,47,Which garage did you choose?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,48,q_feedback_ptv_other_text_input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,49,Factors when choosing parking,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,50,Online reviews of selected location,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,51,Garage layout (car elevators or ramps),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,52,"Parking services (valet,self-park)",,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,53,Reservation process,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,54,Prepaid parking options,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,55,Time required to enter/exit,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,56,Positive past experience,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,57,Time added to departure commute due to traffic around the venue,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,58,F&B Interaction,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,59,Did you purchase F&B from the following:,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,60,F&B purchase through QR code,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,61,Please share the reasons you did not order using the QR Code?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,62,How could we enhance your experience using the QR code food and beverage  @@  service?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,63,Concession stand or kiosk,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,64,Cashier-less self-check out lanes,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,65,In-seat mobile order,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,66,Brooklyn Market mobile ordering,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,67,F&B price,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,68,F&B quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,69,F&B variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,70,F&B wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,71,Why didn t you purchase any food or beverages?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,72,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,73,F&B pain points,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,74,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,75,Food and beverage comment,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,76,Staff: Security,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,77,Staff: Venue (Ushers & Guest services),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,78,Staff: F&B,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,79,Staff: Retail,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,80,Staff: Friendliness,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,81,Staff: Knowledge / helpfulness,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,82,Staff: Presence of throughout arena,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,83,Staff comments,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,84,Merchandise Interaction,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,85,Which retail locations inside Barclays Center did you visit?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,86,Retail pricing,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,87,Retail quality,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,88,Retail selection/variety,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,89,Retail wait time,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,90,Merchandise shopped for,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,91,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,92,Reason for not visiting or purchasing retail,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,93,Any other comments about your retail experience?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,94,Purchase tickets for the Brooklyn Nets and New York Liberty 50/50 Raffle,No,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,95,How did you purchase your raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,96,What motivated you to purchase raffle tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,97,Were you aware of the 50/50 raffle?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,98,Why did you choose not to purchase a raffle ticket?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,99,Gender,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,100,What is your heritage or background?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,101,What is your heritage or background? - Other,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,102,What is your marital status?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,103,Number of children,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,104,What industry best describes your line of work?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,105,How did you purchase your tickets for this game?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,106,Other - text input,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,107,What is your primary use of tickets?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,108,Helpfulness of Venue Staff (historical),,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,109,Are you interested in tickets for next season?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071275,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,mary.mcgarveydepuy@gmail.com,110,When did you plan to arrive at the venue?,,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071294,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,gordy0429@aol.com,1,Likelihood to Recommend,"9",2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071294,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,gordy0429@aol.com,2,Experience comments,It was great as usual,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE
+6071294,2025-05-18,"25LB0517 - Las Vegas Aces",New York Liberty,2025-05-17,gordy0429@aol.com,3,Continue the survey?,Yes,2025-05-19 08:18:14.000,2025-05-20 17:00:47.627,CORE

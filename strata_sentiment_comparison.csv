@@ -1,0 +1,744 @@
+event,nps_bucket,total_responses,matches,mismatches,mismatch_rate
+2020 Comedy Jam,Detractor,43,34,9,21%
+2020 Comedy Jam,Passive,34,31,3,9%
+2020 Comedy Jam,Promoter,123,116,7,6%
+2021 J. Cole W/ 21 Savage,Detractor,94,80,14,15%
+2021 J. Cole W/ 21 Savage,Passive,29,23,6,21%
+2021 J. Cole W/ 21 Savage,Promoter,100,95,5,5%
+2021 Marc Anthony,Detractor,50,36,14,28%
+2021 Marc Anthony,Passive,46,36,10,22%
+2021 Marc Anthony,Promoter,212,193,19,9%
+2021 NBA Playoffs - Round 1 - Home Game A,Detractor,36,31,5,14%
+2021 NBA Playoffs - Round 1 - Home Game A,Passive,52,47,5,10%
+2021 NBA Playoffs - Round 1 - Home Game A,Promoter,192,186,6,3%
+2021 NBA Playoffs - Round 1 - Home Game B,Detractor,60,48,12,20%
+2021 NBA Playoffs - Round 1 - Home Game B,Passive,50,45,5,10%
+2021 NBA Playoffs - Round 1 - Home Game B,Promoter,297,290,7,2%
+2021 NBA Playoffs - Round 1 - Home Game C,Detractor,28,20,8,29%
+2021 NBA Playoffs - Round 1 - Home Game C,Passive,42,38,4,10%
+2021 NBA Playoffs - Round 1 - Home Game C,Promoter,265,255,10,4%
+2021 NBA Playoffs - Round 2 - Home Game A,Detractor,27,25,2,7%
+2021 NBA Playoffs - Round 2 - Home Game A,Passive,44,35,9,20%
+2021 NBA Playoffs - Round 2 - Home Game A,Promoter,289,279,10,3%
+2021 NBA Playoffs - Round 2 - Home Game B,Detractor,22,19,3,14%
+2021 NBA Playoffs - Round 2 - Home Game B,Passive,38,35,3,8%
+2021 NBA Playoffs - Round 2 - Home Game B,Promoter,232,225,7,3%
+2021 NBA Playoffs - Round 2 - Home Game C,Detractor,19,15,4,21%
+2021 NBA Playoffs - Round 2 - Home Game C,Passive,29,28,1,3%
+2021 NBA Playoffs - Round 2 - Home Game C,Promoter,231,219,12,5%
+2021 NBA Playoffs - Round 2 - Home Game D,Detractor,29,25,4,14%
+2021 NBA Playoffs - Round 2 - Home Game D,Passive,31,26,5,16%
+2021 NBA Playoffs - Round 2 - Home Game D,Promoter,194,187,7,4%
+2021 NBA Playoffs - Round 4 - Home Game B,Detractor,2,1,1,50%
+2021 NBA Playoffs - Round 4 - Home Game B,Passive,1,1,0,0%
+2021 NBA Playoffs - Round 4 - Home Game B,Promoter,10,9,1,10%
+2022 BROOKLYN COLLEGE COMMENCEMENT,Detractor,52,42,10,19%
+2022 BROOKLYN COLLEGE COMMENCEMENT,Passive,37,31,6,16%
+2022 BROOKLYN COLLEGE COMMENCEMENT,Promoter,120,109,11,9%
+2022 Basketball Hall of Fame Invitational,Detractor,21,18,3,14%
+2022 Basketball Hall of Fame Invitational,Passive,22,20,2,9%
+2022 Basketball Hall of Fame Invitational,Promoter,75,74,1,1%
+2022 New York Life ACC Men's Basketball Tournament,Detractor,74,61,13,18%
+2022 New York Life ACC Men's Basketball Tournament,Passive,85,77,8,9%
+2022 New York Life ACC Men's Basketball Tournament,Promoter,270,261,9,3%
+2022 PSAL Championship,Detractor,1,1,0,0%
+2022 PSAL Championship,Promoter,4,4,0,0%
+2022 Vivid Seats presents Empire Classic,Detractor,11,8,3,27%
+2022 Vivid Seats presents Empire Classic,Passive,9,8,1,11%
+2022 Vivid Seats presents Empire Classic,Promoter,37,36,1,3%
+2022 Vivid Seats presents Legends Classic,Detractor,35,31,4,11%
+2022 Vivid Seats presents Legends Classic,Passive,23,21,2,9%
+2022 Vivid Seats presents Legends Classic,Promoter,50,46,4,8%
+2023 38 At The Garden,Passive,3,3,0,0%
+2023 38 At The Garden,Promoter,14,14,0,0%
+2023 50 Cent,Detractor,471,387,84,18%
+2023 50 Cent,Passive,177,153,24,14%
+2023 50 Cent,Promoter,738,705,33,4%
+2023 A-10 Men's Basketball Championship - Finals (VCU vs. Dayton),Detractor,4,3,1,25%
+2023 A-10 Men's Basketball Championship - Finals (VCU vs. Dayton),Passive,6,5,1,17%
+2023 A-10 Men's Basketball Championship - Finals (VCU vs. Dayton),Promoter,26,23,3,12%
+"2023 A-10 Men's Basketball Championship - Semifinals (VCU vs. Saint Louis,Dayton vs. Fordham)",Detractor,23,18,5,22%
+"2023 A-10 Men's Basketball Championship - Semifinals (VCU vs. Saint Louis,Dayton vs. Fordham)",Passive,20,19,1,5%
+"2023 A-10 Men's Basketball Championship - Semifinals (VCU vs. Saint Louis,Dayton vs. Fordham)",Promoter,60,59,1,2%
+2023 A-10 Men's Basketball Championship - Session 3,Detractor,13,9,4,31%
+2023 A-10 Men's Basketball Championship - Session 3,Passive,16,13,3,19%
+2023 A-10 Men's Basketball Championship - Session 3,Promoter,30,29,1,3%
+"2023 A-10 Men's Basketball Championship - Session 5 (Dayton vs. Saint Joseph's,Fordham vs. La Salle)",Detractor,26,16,10,38%
+"2023 A-10 Men's Basketball Championship - Session 5 (Dayton vs. Saint Joseph's,Fordham vs. La Salle)",Passive,19,17,2,11%
+"2023 A-10 Men's Basketball Championship - Session 5 (Dayton vs. Saint Joseph's,Fordham vs. La Salle)",Promoter,55,55,0,0%
+2023 Aespa,Detractor,84,69,15,18%
+2023 Aespa,Passive,69,57,12,17%
+2023 Aespa,Promoter,240,228,12,5%
+2023 Alicia Keys,Detractor,171,132,39,23%
+2023 Alicia Keys,Passive,114,93,21,18%
+2023 Alicia Keys,Promoter,705,684,21,3%
+2023 April Fools Comedy Jam,Detractor,660,552,108,16%
+2023 April Fools Comedy Jam,Passive,260,236,24,9%
+2023 April Fools Comedy Jam,Promoter,368,356,12,3%
+2023 Arcangel,Detractor,117,105,12,10%
+2023 Arcangel,Passive,45,39,6,13%
+2023 Arcangel,Promoter,162,150,12,7%
+2023 Arena Upsells,Detractor,1220,1000,220,18%
+2023 Arena Upsells,Passive,420,380,40,10%
+2023 Arena Upsells,Promoter,800,790,10,1%
+2023 Asake,Detractor,129,81,48,37%
+2023 Asake,Passive,63,54,9,14%
+2023 Asake,Promoter,261,234,27,10%
+2023 Basketball Hall Of Fame,Detractor,93,72,21,23%
+2023 Basketball Hall Of Fame,Passive,60,60,0,0%
+2023 Basketball Hall Of Fame,Promoter,144,144,0,0%
+2023 Big3,Detractor,18,12,6,33%
+2023 Big3,Passive,42,39,3,7%
+2023 Big3,Promoter,228,213,15,7%
+2023 Chance The Rapper,Detractor,81,57,24,30%
+2023 Chance The Rapper,Passive,33,30,3,9%
+2023 Chance The Rapper,Promoter,162,153,9,6%
+2023 Depeche Mode,Detractor,528,452,76,14%
+2023 Depeche Mode,Passive,400,352,48,12%
+2023 Depeche Mode,Promoter,1384,1320,64,5%
+2023 Doja Cat,Detractor,264,204,60,23%
+2023 Doja Cat,Passive,81,63,18,22%
+2023 Doja Cat,Promoter,219,213,6,3%
+2023 Drake,Detractor,704,564,140,20%
+2023 Drake,Passive,372,320,52,14%
+2023 Drake,Promoter,1464,1404,60,4%
+2023 Eason Chan,Detractor,92,68,24,26%
+2023 Eason Chan,Passive,36,20,16,44%
+2023 Eason Chan,Promoter,92,88,4,4%
+"2023 Enrique Iglesias,Pitbull,Ricky Martin",Detractor,228,183,45,20%
+"2023 Enrique Iglesias,Pitbull,Ricky Martin",Passive,144,108,36,25%
+"2023 Enrique Iglesias,Pitbull,Ricky Martin",Promoter,513,477,36,7%
+2023 Espn Nit Preseason Tip-Off,Detractor,57,42,15,26%
+2023 Espn Nit Preseason Tip-Off,Passive,27,21,6,22%
+2023 Espn Nit Preseason Tip-Off,Promoter,54,54,0,0%
+2023 Graduations,Detractor,50,35,15,30%
+2023 Graduations,Passive,44,38,6,14%
+2023 Graduations,Promoter,155,150,5,3%
+2023 Gunna,Detractor,84,72,12,14%
+2023 Gunna,Passive,27,27,0,0%
+2023 Gunna,Promoter,225,216,9,4%
+2023 Hot 97 Winter Jam,Detractor,995,830,165,17%
+2023 Hot 97 Winter Jam,Passive,150,130,20,13%
+2023 Hot 97 Winter Jam,Promoter,395,385,10,3%
+2023 Illenium,Detractor,132,104,28,21%
+2023 Illenium,Passive,68,60,8,12%
+2023 Illenium,Promoter,168,156,12,7%
+2023 Jackson Wang,Detractor,284,204,80,28%
+2023 Jackson Wang,Passive,140,112,28,20%
+2023 Jackson Wang,Promoter,556,528,28,5%
+2023 Joji,Detractor,45,36,9,20%
+2023 Joji,Passive,24,21,3,13%
+2023 Joji,Promoter,138,123,15,11%
+2023 Jonas Brothers,Detractor,324,237,87,27%
+2023 Jonas Brothers,Passive,123,102,21,17%
+2023 Jonas Brothers,Promoter,270,267,3,1%
+2023 Katt Williams,Detractor,219,165,54,25%
+2023 Katt Williams,Passive,114,99,15,13%
+2023 Katt Williams,Promoter,225,219,6,3%
+2023 Konpa Kingdom,Detractor,90,75,15,17%
+2023 Konpa Kingdom,Passive,100,95,5,5%
+2023 Konpa Kingdom,Promoter,520,455,65,13%
+2023 Konstantinos Argiros,Detractor,69,63,6,9%
+2023 Konstantinos Argiros,Passive,33,33,0,0%
+2023 Konstantinos Argiros,Promoter,216,207,9,4%
+2023 Lauryn Hill,Detractor,870,723,147,17%
+2023 Lauryn Hill,Passive,168,138,30,18%
+2023 Lauryn Hill,Promoter,336,324,12,4%
+2023 Legends Classic,Detractor,57,30,27,47%
+2023 Legends Classic,Passive,86,76,10,12%
+2023 Legends Classic,Promoter,214,209,5,2%
+2023 Legendz Of The Streetz,Detractor,237,204,33,14%
+2023 Legendz Of The Streetz,Passive,36,33,3,8%
+2023 Legendz Of The Streetz,Promoter,123,117,6,5%
+2023 Lil Uzi Vert,Detractor,48,42,6,13%
+2023 Lil Uzi Vert,Passive,9,9,0,0%
+2023 Lil Uzi Vert,Promoter,84,81,3,4%
+2023 Liu Men'S Basketball,Detractor,6,3,3,50%
+2023 Liu Men'S Basketball,Passive,21,21,0,0%
+2023 Liu Men'S Basketball,Promoter,12,12,0,0%
+2023 Madonna,Detractor,2156,1795,361,17%
+2023 Madonna,Passive,981,863,118,12%
+2023 Madonna,Promoter,2107,2035,72,3%
+2023 Nba Draft,Detractor,30,24,6,20%
+2023 Nba Draft,Passive,20,18,2,10%
+2023 Nba Draft,Promoter,58,58,0,0%
+2023 R&B Music Experience,Detractor,296,204,92,31%
+2023 R&B Music Experience,Passive,224,204,20,9%
+2023 R&B Music Experience,Promoter,596,584,12,2%
+2023 Reggae Love Fest,Detractor,249,192,57,23%
+2023 Reggae Love Fest,Passive,156,129,27,17%
+2023 Reggae Love Fest,Promoter,528,510,18,3%
+2023 Rock & Roll Hall Of Fame,Detractor,399,336,63,16%
+2023 Rock & Roll Hall Of Fame,Passive,318,288,30,9%
+2023 Rock & Roll Hall Of Fame,Promoter,759,741,18,2%
+2023 Rod Wave,Detractor,147,120,27,18%
+2023 Rod Wave,Passive,51,48,3,6%
+2023 Rod Wave,Promoter,276,255,21,8%
+2023 Romeo Santos,Detractor,129,102,27,21%
+2023 Romeo Santos,Passive,66,51,15,23%
+2023 Romeo Santos,Promoter,363,354,9,2%
+2023 Salsa Festival,Detractor,219,183,36,16%
+2023 Salsa Festival,Passive,123,102,21,17%
+2023 Salsa Festival,Promoter,483,462,21,4%
+2023 Straight Jokes No Chaser,Detractor,216,180,36,17%
+2023 Straight Jokes No Chaser,Passive,104,76,28,27%
+2023 Straight Jokes No Chaser,Promoter,324,312,12,4%
+2023 Sza,Detractor,267,225,42,16%
+2023 Sza,Passive,150,138,12,8%
+2023 Sza,Promoter,546,537,9,2%
+2023 Travis Scott,Detractor,234,174,60,26%
+2023 Travis Scott,Passive,63,54,9,14%
+2023 Travis Scott,Promoter,324,315,9,3%
+2023 Wu-Tang Clan & Nas,Detractor,372,304,68,18%
+2023 Wu-Tang Clan & Nas,Passive,188,156,32,17%
+2023 Wu-Tang Clan & Nas,Promoter,664,652,12,2%
+2023 Wwe Smackdown,Detractor,153,120,33,22%
+2023 Wwe Smackdown,Passive,63,57,6,10%
+2023 Wwe Smackdown,Promoter,159,156,3,2%
+2023-24 Brooklyn Nets Suites,Detractor,352,286,66,19%
+2023-24 Brooklyn Nets Suites,Passive,407,308,99,24%
+2023-24 Brooklyn Nets Suites,Promoter,1221,1177,44,4%
+2024 Ana Gabriel,Detractor,42,39,3,7%
+2024 Ana Gabriel,Passive,30,24,6,20%
+2024 Ana Gabriel,Promoter,138,135,3,2%
+2024 April Fools Comedy Jam,Detractor,285,243,42,15%
+2024 April Fools Comedy Jam,Passive,81,69,12,15%
+2024 April Fools Comedy Jam,Promoter,213,210,3,1%
+2024 Arena Upsells,Detractor,211,182,29,14%
+2024 Arena Upsells,Passive,46,41,5,11%
+2024 Arena Upsells,Promoter,225,225,0,0%
+2024 Atlantic 10 Men'S Basketball Championship,Detractor,147,117,30,20%
+2024 Atlantic 10 Men'S Basketball Championship,Passive,207,186,21,10%
+2024 Atlantic 10 Men'S Basketball Championship,Promoter,627,615,12,2%
+2024 Aventura,Detractor,84,72,12,14%
+2024 Aventura,Passive,33,30,3,9%
+2024 Aventura,Promoter,189,177,12,6%
+2024 Aventura 2,Detractor,87,75,12,14%
+2024 Aventura 2,Passive,9,9,0,0%
+2024 Aventura 2,Promoter,183,171,12,7%
+2024 Bad Bunny,Detractor,720,572,148,21%
+2024 Bad Bunny,Passive,344,288,56,16%
+2024 Bad Bunny,Promoter,868,800,68,8%
+2024 Barak,Detractor,12,6,6,50%
+2024 Barak,Passive,6,6,0,0%
+2024 Barak,Promoter,135,129,6,4%
+2024 Billie Eilish,Detractor,62,42,20,32%
+2024 Billie Eilish,Passive,62,54,8,13%
+2024 Billie Eilish,Promoter,264,250,14,5%
+2024 Buju Banton,Detractor,615,465,150,24%
+2024 Buju Banton,Passive,325,275,50,15%
+2024 Buju Banton,Promoter,670,640,30,4%
+2024 Chase Atlantic,Detractor,30,24,6,20%
+2024 Chase Atlantic,Passive,24,18,6,25%
+2024 Chase Atlantic,Promoter,75,69,6,8%
+2024 Chayanne,Detractor,42,30,12,29%
+2024 Chayanne,Passive,21,21,0,0%
+2024 Chayanne,Promoter,222,210,12,5%
+2024 Childish Gambino,Detractor,183,147,36,20%
+2024 Childish Gambino,Passive,114,105,9,8%
+2024 Childish Gambino,Promoter,369,360,9,2%
+2024 Chris Brown,Detractor,354,279,75,21%
+2024 Chris Brown,Passive,297,249,48,16%
+2024 Chris Brown,Promoter,894,852,42,5%
+2024 Christian Nodal,Detractor,36,30,6,17%
+2024 Christian Nodal,Passive,21,18,3,14%
+2024 Christian Nodal,Promoter,150,147,3,2%
+2024 Disney On Ice,Detractor,1338,1074,264,20%
+2024 Disney On Ice,Passive,588,500,88,15%
+2024 Disney On Ice,Promoter,1034,978,56,5%
+2024 Don Omar,Detractor,135,114,21,16%
+2024 Don Omar,Passive,75,63,12,16%
+2024 Don Omar,Promoter,288,285,3,1%
+2024 Don Toliver,Detractor,36,27,9,25%
+2024 Don Toliver,Passive,30,27,3,10%
+2024 Don Toliver,Promoter,99,99,0,0%
+2024 Ed Sheeran,Detractor,156,120,36,23%
+2024 Ed Sheeran,Passive,129,108,21,16%
+2024 Ed Sheeran,Promoter,333,327,6,2%
+2024 Funk Flex Winter Fest,Detractor,120,108,12,10%
+2024 Funk Flex Winter Fest,Passive,39,36,3,8%
+2024 Funk Flex Winter Fest,Promoter,144,135,9,6%
+2024 Future,Detractor,144,126,18,13%
+2024 Future,Passive,33,30,3,9%
+2024 Future,Promoter,108,102,6,6%
+2024 Gold Over America Tour,Detractor,366,330,36,10%
+2024 Gold Over America Tour,Passive,228,168,60,26%
+2024 Gold Over America Tour,Promoter,354,348,6,2%
+2024 Gotham,Detractor,120,84,36,30%
+2024 Gotham,Passive,132,120,12,9%
+2024 Gotham,Promoter,252,216,36,14%
+2024 Gotham Classic,Detractor,216,168,48,22%
+2024 Gotham Classic,Passive,48,48,0,0%
+2024 Gotham Classic,Promoter,264,240,24,9%
+2024 Graduations,Detractor,705,579,126,18%
+2024 Graduations,Passive,350,310,40,11%
+2024 Graduations,Promoter,1180,1082,98,8%
+2024 Grupo Frontera,Detractor,12,12,0,0%
+2024 Grupo Frontera,Passive,12,9,3,25%
+2024 Grupo Frontera,Promoter,81,78,3,4%
+2024 Haney Vs Garcia,Detractor,185,145,40,22%
+2024 Haney Vs Garcia,Passive,100,90,10,10%
+2024 Haney Vs Garcia,Promoter,400,390,10,3%
+2024 Harlem Globetrotters,Detractor,609,525,84,14%
+2024 Harlem Globetrotters,Passive,154,126,28,18%
+2024 Harlem Globetrotters,Promoter,308,294,14,5%
+2024 Hot Wheels,Detractor,544,440,104,19%
+2024 Hot Wheels,Passive,152,152,0,0%
+2024 Hot Wheels,Promoter,368,352,16,4%
+2024 Iron Maiden,Detractor,321,264,57,18%
+2024 Iron Maiden,Passive,204,177,27,13%
+2024 Iron Maiden,Promoter,582,555,27,5%
+2024 Janet Jackson,Detractor,312,258,54,17%
+2024 Janet Jackson,Passive,300,267,33,11%
+2024 Janet Jackson,Promoter,870,813,57,7%
+2024 Jhene Aiko,Detractor,87,66,21,24%
+2024 Jhene Aiko,Passive,27,27,0,0%
+2024 Jhene Aiko,Promoter,153,144,9,6%
+2024 Joker Xue,Detractor,339,273,66,19%
+2024 Joker Xue,Passive,27,24,3,11%
+2024 Joker Xue,Promoter,24,21,3,13%
+2024 Jonathan Lee,Detractor,39,27,12,31%
+2024 Jonathan Lee,Passive,21,15,6,29%
+2024 Jonathan Lee,Promoter,27,27,0,0%
+2024 Jordan Brand Classic,Detractor,18,15,3,17%
+2024 Jordan Brand Classic,Passive,12,12,0,0%
+2024 Jordan Brand Classic,Promoter,111,111,0,0%
+2024 Justin Timberlake,Detractor,115,80,35,30%
+2024 Justin Timberlake,Passive,145,120,25,17%
+2024 Justin Timberlake,Promoter,470,460,10,2%
+2024 Kacey Musgraves,Detractor,167,135,32,19%
+2024 Kacey Musgraves,Passive,116,97,19,16%
+2024 Kacey Musgraves,Promoter,319,319,0,0%
+2024 Kehlani,Detractor,69,51,18,26%
+2024 Kehlani,Passive,36,33,3,8%
+2024 Kehlani,Promoter,108,102,6,6%
+2024 Kirk Franklin,Detractor,54,45,9,17%
+2024 Kirk Franklin,Passive,75,60,15,20%
+2024 Kirk Franklin,Promoter,321,303,18,6%
+2024 Kygo,Detractor,90,72,18,20%
+2024 Kygo,Passive,42,42,0,0%
+2024 Kygo,Promoter,195,189,6,3%
+2024 Ladies Night,Detractor,444,372,72,16%
+2024 Ladies Night,Passive,165,135,30,18%
+2024 Ladies Night,Promoter,237,225,12,5%
+2024 Latto,Detractor,39,27,12,31%
+2024 Latto,Passive,36,27,9,25%
+2024 Latto,Promoter,60,57,3,5%
+2024 Legends Classic,Detractor,52,46,6,12%
+2024 Legends Classic,Passive,25,25,0,0%
+2024 Legends Classic,Promoter,156,153,3,2%
+2024 Linkin Park,Detractor,174,132,42,24%
+2024 Linkin Park,Passive,135,108,27,20%
+2024 Linkin Park,Promoter,342,327,15,4%
+2024 Love Hard Tour,Detractor,195,171,24,12%
+2024 Love Hard Tour,Passive,105,75,30,29%
+2024 Love Hard Tour,Promoter,285,270,15,5%
+2024 Luis Miguel,Detractor,147,117,30,20%
+2024 Luis Miguel,Passive,72,63,9,13%
+2024 Luis Miguel,Promoter,498,474,24,5%
+2024 Marc Anthony,Detractor,135,111,24,18%
+2024 Marc Anthony,Passive,111,102,9,8%
+2024 Marc Anthony,Promoter,246,234,12,5%
+2024 Mariah Carey,Detractor,234,180,54,23%
+2024 Mariah Carey,Passive,162,144,18,11%
+2024 Mariah Carey,Promoter,594,570,24,4%
+2024 Mary J Blige,Detractor,1029,858,171,17%
+2024 Mary J Blige,Passive,240,222,18,8%
+2024 Mary J Blige,Promoter,393,372,21,5%
+2024 Maverick City Music,Detractor,3,3,0,0%
+2024 Maverick City Music,Passive,42,39,3,7%
+2024 Maverick City Music,Promoter,207,198,9,4%
+2024 Maxwell,Detractor,168,138,30,18%
+2024 Maxwell,Passive,108,87,21,19%
+2024 Maxwell,Promoter,276,270,6,2%
+2024 Missy Elliott,Detractor,500,400,100,20%
+2024 Missy Elliott,Passive,360,292,68,19%
+2024 Missy Elliott,Promoter,756,716,40,5%
+2024 Nba Draft,Detractor,22,20,2,9%
+2024 Nba Draft,Passive,16,14,2,13%
+2024 Nba Draft,Promoter,32,32,0,0%
+2024 Ncaa Tournment,Detractor,59,34,25,42%
+2024 Ncaa Tournment,Passive,48,41,7,15%
+2024 Ncaa Tournment,Promoter,125,115,10,8%
+2024 Nicki Minaj,Detractor,635,483,152,24%
+2024 Nicki Minaj,Passive,243,208,35,14%
+2024 Nicki Minaj,Promoter,654,604,50,8%
+2024 Ny Liberty Playoff Suites,Detractor,108,78,30,28%
+2024 Ny Liberty Playoff Suites,Passive,240,210,30,13%
+2024 Ny Liberty Playoff Suites,Promoter,1158,1092,66,6%
+2024 Ny Salsa Festival,Detractor,96,72,24,25%
+2024 Ny Salsa Festival,Passive,84,84,0,0%
+2024 Ny Salsa Festival,Promoter,424,392,32,8%
+2024 Pbr,Detractor,107,87,20,19%
+2024 Pbr,Passive,71,71,0,0%
+2024 Pbr,Promoter,193,187,6,3%
+2024 Peso Pluma,Detractor,108,84,24,22%
+2024 Peso Pluma,Passive,24,20,4,17%
+2024 Peso Pluma,Promoter,136,136,0,0%
+2024 R&B Music Experience,Detractor,165,135,30,18%
+2024 R&B Music Experience,Passive,75,60,15,20%
+2024 R&B Music Experience,Promoter,249,249,0,0%
+2024 Reggae Fest Massive,Detractor,138,96,42,30%
+2024 Reggae Fest Massive,Passive,117,111,6,5%
+2024 Reggae Fest Massive,Promoter,321,303,18,6%
+2024 Reggae Love Fest,Detractor,114,99,15,13%
+2024 Reggae Love Fest,Passive,63,51,12,19%
+2024 Reggae Love Fest,Promoter,186,180,6,3%
+2024 Ringling Bros.,Detractor,812,600,212,26%
+2024 Ringling Bros.,Passive,506,450,56,11%
+2024 Ringling Bros.,Promoter,1224,1164,60,5%
+2024 Russ,Detractor,72,54,18,25%
+2024 Russ,Passive,24,18,6,25%
+2024 Russ,Promoter,141,132,9,6%
+2024 Sabrina Carpenter,Detractor,160,116,44,28%
+2024 Sabrina Carpenter,Passive,84,72,12,14%
+2024 Sabrina Carpenter,Promoter,172,172,0,0%
+2024 Sexyy Red,Detractor,87,69,18,21%
+2024 Sexyy Red,Passive,12,12,0,0%
+2024 Sexyy Red,Promoter,51,51,0,0%
+2024 Subtronics,Detractor,36,30,6,17%
+2024 Subtronics,Passive,15,15,0,0%
+2024 Subtronics,Promoter,69,60,9,13%
+2024 Thirty Seconds To Mars,Detractor,138,105,33,24%
+2024 Thirty Seconds To Mars,Passive,108,99,9,8%
+2024 Thirty Seconds To Mars,Promoter,291,285,6,2%
+2024 Twenty One Pilots,Detractor,177,153,24,14%
+2024 Twenty One Pilots,Passive,90,66,24,27%
+2024 Twenty One Pilots,Promoter,237,222,15,6%
+2024 Usher,Detractor,2431,1915,516,21%
+2024 Usher,Passive,1363,1135,228,17%
+2024 Usher,Promoter,3000,2814,186,6%
+2024 We Them One's,Detractor,270,234,36,13%
+2024 We Them One's,Passive,126,114,12,10%
+2024 We Them One's,Promoter,222,219,3,1%
+2024 Wild N Out,Detractor,351,288,63,18%
+2024 Wild N Out,Passive,63,54,9,14%
+2024 Wild N Out,Promoter,114,102,12,11%
+2024 Women'S Champions Classic,Detractor,240,196,44,18%
+2024 Women'S Champions Classic,Passive,156,128,28,18%
+2024 Women'S Champions Classic,Promoter,576,556,20,3%
+2024 Wwe Monday Night Raw,Detractor,252,207,45,18%
+2024 Wwe Monday Night Raw,Passive,132,111,21,16%
+2024 Wwe Monday Night Raw,Promoter,291,288,3,1%
+2024 Wwe Smackdown,Detractor,165,125,40,24%
+2024 Wwe Smackdown,Passive,45,45,0,0%
+2024 Wwe Smackdown,Promoter,400,380,20,5%
+2024 Zach Bryan,Detractor,735,603,132,18%
+2024 Zach Bryan,Passive,382,326,56,15%
+2024 Zach Bryan,Promoter,989,962,27,3%
+2025 Liu Mens Basketball,Detractor,4,4,0,0%
+2025 Liu Mens Basketball,Promoter,6,4,2,33%
+2CELLOS The Dedicated Tour,Detractor,23,18,5,22%
+2CELLOS The Dedicated Tour,Passive,16,13,3,19%
+2CELLOS The Dedicated Tour,Promoter,69,68,1,1%
+56th Commencement Exercises of the CUNY Graduate Center,Detractor,9,6,3,33%
+56th Commencement Exercises of the CUNY Graduate Center,Passive,10,9,1,10%
+56th Commencement Exercises of the CUNY Graduate Center,Promoter,22,20,2,9%
+A Boogie Wit Da Hoodie: Me Vs. Myself Tour,Detractor,40,33,7,18%
+A Boogie Wit Da Hoodie: Me Vs. Myself Tour,Passive,8,5,3,38%
+A Boogie Wit Da Hoodie: Me Vs. Myself Tour,Promoter,66,61,5,8%
+April Fools Comedy Jam,Detractor,149,122,27,18%
+April Fools Comedy Jam,Passive,70,57,13,19%
+April Fools Comedy Jam,Promoter,167,162,5,3%
+Arcade Fire,Detractor,54,43,11,20%
+Arcade Fire,Passive,36,31,5,14%
+Arcade Fire,Promoter,70,68,2,3%
+Bad Bunny - El Ultimo Tour Del Mundo,Detractor,94,70,24,26%
+Bad Bunny - El Ultimo Tour Del Mundo,Passive,63,54,9,14%
+Bad Bunny - El Ultimo Tour Del Mundo,Promoter,235,223,12,5%
+Bring Me The Horizon,Detractor,24,18,6,25%
+Bring Me The Horizon,Passive,13,10,3,23%
+Bring Me The Horizon,Promoter,58,53,5,9%
+Brooklyn Nets,Detractor,3000,2384,616,21%
+Brooklyn Nets,Passive,3000,2654,346,12%
+Brooklyn Nets,Promoter,3000,2890,110,4%
+Brooklyn Nets VS Atlanta Hawks,Detractor,9,7,2,22%
+Brooklyn Nets VS Atlanta Hawks,Passive,8,8,0,0%
+Brooklyn Nets VS Atlanta Hawks,Promoter,51,49,2,4%
+Brooklyn Nets VS Charlotte Hornets,Detractor,9,9,0,0%
+Brooklyn Nets VS Charlotte Hornets,Passive,12,10,2,17%
+Brooklyn Nets VS Charlotte Hornets,Promoter,24,22,2,8%
+Brooklyn Nets VS Miami Heat,Detractor,2,0,2,100%
+Brooklyn Nets VS Miami Heat,Passive,1,1,0,0%
+Brooklyn Nets VS Miami Heat,Promoter,16,14,2,13%
+Brooklyn Nets VS Milwaukee Bucks,Detractor,9,9,0,0%
+Brooklyn Nets VS Milwaukee Bucks,Passive,16,14,2,13%
+Brooklyn Nets VS Milwaukee Bucks,Promoter,78,77,1,1%
+Brooklyn Nets VS Minnesota Timberwolves,Detractor,6,4,2,33%
+Brooklyn Nets VS Minnesota Timberwolves,Passive,10,9,1,10%
+Brooklyn Nets VS Minnesota Timberwolves,Promoter,53,50,3,6%
+Brooklyn Nets VS Washington Wizards,Detractor,6,5,1,17%
+Brooklyn Nets VS Washington Wizards,Passive,5,3,2,40%
+Brooklyn Nets VS Washington Wizards,Promoter,25,23,2,8%
+Brooklyn Nets vs Detroit Pistons,Detractor,3,1,2,67%
+Brooklyn Nets vs Detroit Pistons,Passive,3,1,2,67%
+Brooklyn Nets vs Detroit Pistons,Promoter,22,22,0,0%
+Brooklyn Nets vs Indiana Pacers,Detractor,1,1,0,0%
+Brooklyn Nets vs Indiana Pacers,Passive,2,2,0,0%
+Brooklyn Nets vs Indiana Pacers,Promoter,25,25,0,0%
+Brooklyn Nets vs. Atlanta Hawks,Detractor,69,57,12,17%
+Brooklyn Nets vs. Atlanta Hawks,Passive,61,56,5,8%
+Brooklyn Nets vs. Atlanta Hawks,Promoter,344,335,9,3%
+Brooklyn Nets vs. Boston Celtics,Detractor,307,246,61,20%
+Brooklyn Nets vs. Boston Celtics,Passive,284,254,30,11%
+Brooklyn Nets vs. Boston Celtics,Promoter,870,834,36,4%
+Brooklyn Nets vs. Charlotte Hornets,Detractor,95,81,14,15%
+Brooklyn Nets vs. Charlotte Hornets,Passive,118,107,11,9%
+Brooklyn Nets vs. Charlotte Hornets,Promoter,593,576,17,3%
+Brooklyn Nets vs. Chicago Bulls,Detractor,71,58,13,18%
+Brooklyn Nets vs. Chicago Bulls,Passive,80,72,8,10%
+Brooklyn Nets vs. Chicago Bulls,Promoter,375,360,15,4%
+Brooklyn Nets vs. Cleveland Cavaliers,Detractor,107,83,24,22%
+Brooklyn Nets vs. Cleveland Cavaliers,Passive,160,146,14,9%
+Brooklyn Nets vs. Cleveland Cavaliers,Promoter,843,817,26,3%
+Brooklyn Nets vs. Dallas Mavericks,Detractor,38,30,8,21%
+Brooklyn Nets vs. Dallas Mavericks,Passive,68,58,10,15%
+Brooklyn Nets vs. Dallas Mavericks,Promoter,326,323,3,1%
+Brooklyn Nets vs. Denver Nuggets,Detractor,78,61,17,22%
+Brooklyn Nets vs. Denver Nuggets,Passive,74,65,9,12%
+Brooklyn Nets vs. Denver Nuggets,Promoter,268,257,11,4%
+Brooklyn Nets vs. Detroit Pistons,Detractor,55,46,9,16%
+Brooklyn Nets vs. Detroit Pistons,Passive,86,80,6,7%
+Brooklyn Nets vs. Detroit Pistons,Promoter,291,278,13,4%
+Brooklyn Nets vs. Golden State Warriors,Detractor,68,54,14,21%
+Brooklyn Nets vs. Golden State Warriors,Passive,44,38,6,14%
+Brooklyn Nets vs. Golden State Warriors,Promoter,183,180,3,2%
+Brooklyn Nets vs. Houston Rockets,Detractor,41,31,10,24%
+Brooklyn Nets vs. Houston Rockets,Passive,56,53,3,5%
+Brooklyn Nets vs. Houston Rockets,Promoter,358,348,10,3%
+Brooklyn Nets vs. Indiana Pacers,Detractor,92,70,22,24%
+Brooklyn Nets vs. Indiana Pacers,Passive,117,106,11,9%
+Brooklyn Nets vs. Indiana Pacers,Promoter,534,519,15,3%
+Brooklyn Nets vs. LA Clippers,Detractor,39,31,8,21%
+Brooklyn Nets vs. LA Clippers,Passive,41,35,6,15%
+Brooklyn Nets vs. LA Clippers,Promoter,177,173,4,2%
+Brooklyn Nets vs. Los Angeles Lakers,Detractor,166,116,50,30%
+Brooklyn Nets vs. Los Angeles Lakers,Passive,130,116,14,11%
+Brooklyn Nets vs. Los Angeles Lakers,Promoter,432,419,13,3%
+Brooklyn Nets vs. Memphis Grizzlies,Detractor,40,33,7,18%
+Brooklyn Nets vs. Memphis Grizzlies,Passive,57,51,6,11%
+Brooklyn Nets vs. Memphis Grizzlies,Promoter,227,222,5,2%
+Brooklyn Nets vs. Miami Heat,Detractor,55,40,15,27%
+Brooklyn Nets vs. Miami Heat,Passive,108,96,12,11%
+Brooklyn Nets vs. Miami Heat,Promoter,451,437,14,3%
+Brooklyn Nets vs. Milwaukee Bucks,Detractor,107,90,17,16%
+Brooklyn Nets vs. Milwaukee Bucks,Passive,130,117,13,10%
+Brooklyn Nets vs. Milwaukee Bucks,Promoter,548,536,12,2%
+Brooklyn Nets vs. Minnesota Timberwolves,Detractor,37,29,8,22%
+Brooklyn Nets vs. Minnesota Timberwolves,Passive,44,41,3,7%
+Brooklyn Nets vs. Minnesota Timberwolves,Promoter,189,185,4,2%
+Brooklyn Nets vs. New Orleans Pelicans,Detractor,66,48,18,27%
+Brooklyn Nets vs. New Orleans Pelicans,Passive,77,65,12,16%
+Brooklyn Nets vs. New Orleans Pelicans,Promoter,363,350,13,4%
+Brooklyn Nets vs. New York Knicks,Detractor,154,114,40,26%
+Brooklyn Nets vs. New York Knicks,Passive,151,137,14,9%
+Brooklyn Nets vs. New York Knicks,Promoter,713,694,19,3%
+Brooklyn Nets vs. Oklahoma City Thunder,Detractor,61,47,14,23%
+Brooklyn Nets vs. Oklahoma City Thunder,Passive,86,76,10,12%
+Brooklyn Nets vs. Oklahoma City Thunder,Promoter,298,290,8,3%
+Brooklyn Nets vs. Orlando Magic,Detractor,61,46,15,25%
+Brooklyn Nets vs. Orlando Magic,Passive,86,80,6,7%
+Brooklyn Nets vs. Orlando Magic,Promoter,428,424,4,1%
+Brooklyn Nets vs. Philadelphia 76ers,Detractor,125,104,21,17%
+Brooklyn Nets vs. Philadelphia 76ers,Passive,155,144,11,7%
+Brooklyn Nets vs. Philadelphia 76ers,Promoter,598,576,22,4%
+Brooklyn Nets vs. Phoenix Suns,Detractor,44,31,13,30%
+Brooklyn Nets vs. Phoenix Suns,Passive,49,43,6,12%
+Brooklyn Nets vs. Phoenix Suns,Promoter,251,242,9,4%
+Brooklyn Nets vs. Portland Trail Blazers,Detractor,56,44,12,21%
+Brooklyn Nets vs. Portland Trail Blazers,Passive,82,78,4,5%
+Brooklyn Nets vs. Portland Trail Blazers,Promoter,428,414,14,3%
+Brooklyn Nets vs. Sacramento Kings,Detractor,63,52,11,17%
+Brooklyn Nets vs. Sacramento Kings,Passive,85,78,7,8%
+Brooklyn Nets vs. Sacramento Kings,Promoter,338,327,11,3%
+Brooklyn Nets vs. San Antonio Spurs,Detractor,31,24,7,23%
+Brooklyn Nets vs. San Antonio Spurs,Passive,61,57,4,7%
+Brooklyn Nets vs. San Antonio Spurs,Promoter,373,363,10,3%
+Brooklyn Nets vs. Toronto Raptors,Detractor,75,60,15,20%
+Brooklyn Nets vs. Toronto Raptors,Passive,111,101,10,9%
+Brooklyn Nets vs. Toronto Raptors,Promoter,600,581,19,3%
+Brooklyn Nets vs. Utah Jazz,Detractor,51,42,9,18%
+Brooklyn Nets vs. Utah Jazz,Passive,68,61,7,10%
+Brooklyn Nets vs. Utah Jazz,Promoter,318,309,9,3%
+Brooklyn Nets vs. Washington Wizards,Detractor,89,74,15,17%
+Brooklyn Nets vs. Washington Wizards,Passive,119,109,10,8%
+Brooklyn Nets vs. Washington Wizards,Promoter,505,489,16,3%
+Brooklyn Unity Fest,Passive,1,1,0,0%
+Brooklyn Unity Fest,Promoter,4,4,0,0%
+Bruce Springsteen and The E Street Band 2023 Tour,Detractor,225,183,42,19%
+Bruce Springsteen and The E Street Band 2023 Tour,Passive,114,99,15,13%
+Bruce Springsteen and The E Street Band 2023 Tour,Promoter,397,385,12,3%
+Christian Nodal - Forajido Tour,Detractor,37,29,8,22%
+Christian Nodal - Forajido Tour,Passive,14,14,0,0%
+Christian Nodal - Forajido Tour,Promoter,82,78,4,5%
+Disney On Ice presents Let's Celebrate,Detractor,10,9,1,10%
+Disney On Ice presents Let's Celebrate,Passive,8,6,2,25%
+Disney On Ice presents Let's Celebrate,Promoter,59,58,1,2%
+Disney On Ice: Into the Magic,Detractor,40,29,11,28%
+Disney On Ice: Into the Magic,Passive,25,21,4,16%
+Disney On Ice: Into the Magic,Promoter,73,72,1,1%
+Elton John: Farewell Yellow Brick Road,Detractor,83,73,10,12%
+Elton John: Farewell Yellow Brick Road,Passive,71,62,9,13%
+Elton John: Farewell Yellow Brick Road,Promoter,498,481,17,3%
+FOX PPV Boxing: Deontay Wilder vs. Robert Helenius,Detractor,44,31,13,30%
+FOX PPV Boxing: Deontay Wilder vs. Robert Helenius,Passive,28,21,7,25%
+FOX PPV Boxing: Deontay Wilder vs. Robert Helenius,Promoter,115,106,9,8%
+Future - The Ball Drops in Brooklyn,Detractor,34,22,12,35%
+Future - The Ball Drops in Brooklyn,Passive,11,9,2,18%
+Future - The Ball Drops in Brooklyn,Promoter,45,43,2,4%
+GORILLAZ,Detractor,47,36,11,23%
+GORILLAZ,Passive,37,35,2,5%
+GORILLAZ,Promoter,113,111,2,2%
+Gervonta Davis vs Rolando Romero,Detractor,363,267,96,26%
+Gervonta Davis vs Rolando Romero,Passive,48,42,6,13%
+Gervonta Davis vs Rolando Romero,Promoter,89,84,5,6%
+Harlem Globetrotters,Detractor,7,5,2,29%
+Harlem Globetrotters,Passive,12,12,0,0%
+Harlem Globetrotters,Promoter,25,24,1,4%
+JACK WHITE: The Supply Chain Issues Tour,Detractor,38,29,9,24%
+JACK WHITE: The Supply Chain Issues Tour,Passive,34,31,3,9%
+JACK WHITE: The Supply Chain Issues Tour,Promoter,113,108,5,4%
+JJ Lin JJ20 World Tour,Detractor,51,40,11,22%
+JJ Lin JJ20 World Tour,Passive,25,21,4,16%
+JJ Lin JJ20 World Tour,Promoter,42,40,2,5%
+Jack Harlow: Come Home The Kids Miss You Tour,Detractor,25,20,5,20%
+Jack Harlow: Come Home The Kids Miss You Tour,Passive,13,10,3,23%
+Jack Harlow: Come Home The Kids Miss You Tour,Promoter,68,64,4,6%
+Jurassic World Live Tour,Detractor,21,18,3,14%
+Jurassic World Live Tour,Passive,19,17,2,11%
+Jurassic World Live Tour,Promoter,92,89,3,3%
+Justin Bieber,Detractor,33,28,5,15%
+Justin Bieber,Passive,24,17,7,29%
+Justin Bieber,Promoter,114,111,3,3%
+KAROL G: $TRIP LOVE TOUR,Detractor,37,26,11,30%
+KAROL G: $TRIP LOVE TOUR,Passive,13,9,4,31%
+KAROL G: $TRIP LOVE TOUR,Promoter,112,106,6,5%
+KID CUDI ??? TO THE MOON,Detractor,24,19,5,21%
+KID CUDI ??? TO THE MOON,Passive,13,12,1,8%
+KID CUDI ??? TO THE MOON,Promoter,40,40,0,0%
+Katt Williams,Detractor,51,42,9,18%
+Katt Williams,Passive,26,18,8,31%
+Katt Williams,Promoter,106,104,2,2%
+Kendrick Lamar ??? The Big Steppers Tour,Detractor,54,34,20,37%
+Kendrick Lamar ??? The Big Steppers Tour,Passive,57,53,4,7%
+Kendrick Lamar ??? The Big Steppers Tour,Promoter,261,253,8,3%
+Kingdom Tour: Maverick City Music x Kirk Franklin,Detractor,55,46,9,16%
+Kingdom Tour: Maverick City Music x Kirk Franklin,Passive,46,38,8,17%
+Kingdom Tour: Maverick City Music x Kirk Franklin,Promoter,197,189,8,4%
+Knotfest Roadshow,Detractor,57,46,11,19%
+Knotfest Roadshow,Passive,21,17,4,19%
+Knotfest Roadshow,Promoter,106,102,4,4%
+Ladies Night R&B Super Jam,Detractor,285,222,63,22%
+Ladies Night R&B Super Jam,Passive,134,117,17,13%
+Ladies Night R&B Super Jam,Promoter,343,327,16,5%
+Lil Baby with Lil Durk,Detractor,22,18,4,18%
+Lil Baby with Lil Durk,Passive,5,5,0,0%
+Lil Baby with Lil Durk,Promoter,43,41,2,5%
+Marc Anthony,Detractor,36,26,10,28%
+Marc Anthony,Passive,35,32,3,9%
+Marc Anthony,Promoter,166,160,6,4%
+Mary J. Blige: Good Morning Gorgeous Tour presented by Hologic,Detractor,85,69,16,19%
+Mary J. Blige: Good Morning Gorgeous Tour presented by Hologic,Passive,66,55,11,17%
+Mary J. Blige: Good Morning Gorgeous Tour presented by Hologic,Promoter,270,258,12,4%
+Maxwell: The Night Tour,Detractor,40,37,3,8%
+Maxwell: The Night Tour,Passive,46,41,5,11%
+Maxwell: The Night Tour,Promoter,163,157,6,4%
+Mayday,Detractor,17,15,2,12%
+Mayday,Passive,10,9,1,10%
+Mayday,Promoter,22,20,2,9%
+MetaMoon Festival,Detractor,20,14,6,30%
+MetaMoon Festival,Passive,5,3,2,40%
+MetaMoon Festival,Promoter,29,29,0,0%
+My Chemical Romance,Detractor,123,85,38,31%
+My Chemical Romance,Passive,52,46,6,12%
+My Chemical Romance,Promoter,129,124,5,4%
+NBA Draft 2022 presented by State Farm,Detractor,8,8,0,0%
+NBA Draft 2022 presented by State Farm,Passive,14,10,4,29%
+NBA Draft 2022 presented by State Farm,Promoter,52,51,1,2%
+NYU - TANDON,Detractor,33,30,3,9%
+NYU - TANDON,Passive,15,15,0,0%
+NYU - TANDON,Promoter,37,35,2,5%
+New Order & Pet Shop Boys - The Unity Tour,Detractor,100,86,14,14%
+New Order & Pet Shop Boys - The Unity Tour,Passive,67,60,7,10%
+New Order & Pet Shop Boys - The Unity Tour,Promoter,231,222,9,4%
+New York Liberty,Detractor,3000,2273,727,24%
+New York Liberty,Passive,3000,2675,325,11%
+New York Liberty,Promoter,3000,2906,94,3%
+New York Liberty vs. Atlanta Dream,Detractor,22,18,4,18%
+New York Liberty vs. Atlanta Dream,Passive,51,46,5,10%
+New York Liberty vs. Atlanta Dream,Promoter,425,408,17,4%
+New York Liberty vs. Chicago Sky,Detractor,29,24,5,17%
+New York Liberty vs. Chicago Sky,Passive,62,53,9,15%
+New York Liberty vs. Chicago Sky,Promoter,453,440,13,3%
+New York Liberty vs. Connecticut Sun,Detractor,20,15,5,25%
+New York Liberty vs. Connecticut Sun,Passive,40,38,2,5%
+New York Liberty vs. Connecticut Sun,Promoter,299,291,8,3%
+New York Liberty vs. Dallas Wings,Detractor,8,5,3,38%
+New York Liberty vs. Dallas Wings,Passive,8,6,2,25%
+New York Liberty vs. Dallas Wings,Promoter,113,109,4,4%
+New York Liberty vs. Indiana Fever,Detractor,20,17,3,15%
+New York Liberty vs. Indiana Fever,Passive,39,36,3,8%
+New York Liberty vs. Indiana Fever,Promoter,258,254,4,2%
+New York Liberty vs. LA Sparks,Detractor,3,2,1,33%
+New York Liberty vs. LA Sparks,Passive,13,12,1,8%
+New York Liberty vs. LA Sparks,Promoter,181,172,9,5%
+New York Liberty vs. Las Vegas Aces,Detractor,4,3,1,25%
+New York Liberty vs. Las Vegas Aces,Passive,24,23,1,4%
+New York Liberty vs. Las Vegas Aces,Promoter,144,143,1,1%
+New York Liberty vs. Minnesota Lynx,Detractor,13,11,2,15%
+New York Liberty vs. Minnesota Lynx,Passive,27,24,3,11%
+New York Liberty vs. Minnesota Lynx,Promoter,194,192,2,1%
+New York Liberty vs. Phoenix Mercury,Detractor,8,8,0,0%
+New York Liberty vs. Phoenix Mercury,Passive,29,26,3,10%
+New York Liberty vs. Phoenix Mercury,Promoter,210,202,8,4%
+New York Liberty vs. Seattle Storm,Detractor,31,25,6,19%
+New York Liberty vs. Seattle Storm,Passive,66,62,4,6%
+New York Liberty vs. Seattle Storm,Promoter,401,390,11,3%
+New York Liberty vs. Washington Mystics,Detractor,17,13,4,24%
+New York Liberty vs. Washington Mystics,Passive,34,31,3,9%
+New York Liberty vs. Washington Mystics,Promoter,279,274,5,2%
+Rauw Alejandro,Detractor,36,28,8,22%
+Rauw Alejandro,Passive,20,16,4,20%
+Rauw Alejandro,Promoter,92,90,2,2%
+Rauw Alejandro: Saturno World Tour 2023,Detractor,49,42,7,14%
+Rauw Alejandro: Saturno World Tour 2023,Passive,26,19,7,27%
+Rauw Alejandro: Saturno World Tour 2023,Promoter,129,120,9,7%
+Rock Hart: Only Headliners Allowed,Detractor,147,124,23,16%
+Rock Hart: Only Headliners Allowed,Passive,99,86,13,13%
+Rock Hart: Only Headliners Allowed,Promoter,172,165,7,4%
+Rod Wave - Beautiful Mind Tour,Detractor,18,16,2,11%
+Rod Wave - Beautiful Mind Tour,Passive,12,10,2,17%
+Rod Wave - Beautiful Mind Tour,Promoter,56,53,3,5%
+SOCA KINGDOM  - 40 YEARS OF MACHEL MONTANO,Detractor,55,44,11,20%
+SOCA KINGDOM  - 40 YEARS OF MACHEL MONTANO,Passive,48,40,8,17%
+SOCA KINGDOM  - 40 YEARS OF MACHEL MONTANO,Promoter,195,181,14,7%
+Sebastian Maniscalco,Detractor,166,134,32,19%
+Sebastian Maniscalco,Passive,71,67,4,6%
+Sebastian Maniscalco,Promoter,123,114,9,7%
+Showtime Boxing : Danny Garcia vs. Jose Benavidez Jr,Detractor,17,16,1,6%
+Showtime Boxing : Danny Garcia vs. Jose Benavidez Jr,Passive,22,22,0,0%
+Showtime Boxing : Danny Garcia vs. Jose Benavidez Jr,Promoter,63,62,1,2%
+Tame Impala,Detractor,71,57,14,20%
+Tame Impala,Passive,34,32,2,6%
+Tame Impala,Promoter,183,174,9,5%
+The New York Salsa Festival,Detractor,29,23,6,21%
+The New York Salsa Festival,Passive,40,34,6,15%
+The New York Salsa Festival,Promoter,177,169,8,5%
+The Strokes,Detractor,165,129,36,22%
+The Strokes,Passive,34,30,4,12%
+The Strokes,Promoter,64,61,3,5%
+WWE Friday Night Smackdown,Detractor,33,29,4,12%
+WWE Friday Night Smackdown,Passive,35,31,4,11%
+WWE Friday Night Smackdown,Promoter,115,110,5,4%
+WWE Monday Night Raw,Detractor,79,64,15,19%
+WWE Monday Night Raw,Passive,62,54,8,13%
+WWE Monday Night Raw,Promoter,217,207,10,5%
+Wiz Khalifa and Logic: Vinyl Verse Tour 2022,Detractor,10,9,1,10%
+Wiz Khalifa and Logic: Vinyl Verse Tour 2022,Passive,6,5,1,17%
+Wiz Khalifa and Logic: Vinyl Verse Tour 2022,Promoter,17,16,1,6%
+"first round,Brooklyn Nets vs. Philadelphia 76ers",Detractor,22,16,6,27%
+"first round,Brooklyn Nets vs. Philadelphia 76ers",Passive,28,25,3,11%
+"first round,Brooklyn Nets vs. Philadelphia 76ers",Promoter,144,137,7,5%
+"game two,Brooklyn Nets vs. Philadelphia 76ers",Detractor,34,30,4,12%
+"game two,Brooklyn Nets vs. Philadelphia 76ers",Passive,41,37,4,10%
+"game two,Brooklyn Nets vs. Philadelphia 76ers",Promoter,126,123,3,2%
