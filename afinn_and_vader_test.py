@@ -16,9 +16,6 @@ nltk.download('stopwords')
 # Read the vw_survey_base.csv file in the same folder
 df = pd.read_csv('vw_survey_base_202507151128.csv')
 
-# Lowercase the original nps_comment column for comparison
-df['nps_comment_lower'] = df['nps_comment'].str.lower()
-
 # Clean up the nps_comment column
 def clean_text(text):
     if pd.isnull(text):
@@ -70,7 +67,7 @@ df['afinn_sentiment'] = df['afinn_score'].apply(
     lambda score: 'positive' if score > 0 else ('negative' if score < 0 else 'neutral')
 )
 
-print(df[['nps_comment_lower', 'nps_comment_clean', 'VADER_overall', 'VADER_compound', 'afinn_score', 'afinn_sentiment']].head())
+print(df[['nps_comment_clean', 'VADER_overall', 'VADER_compound', 'afinn_score', 'afinn_sentiment']].head())
 
 # Save the DataFrame with sentiment results to a new CSV file
 df.to_csv('vw_survey_with_sentiment.csv', index=False)
